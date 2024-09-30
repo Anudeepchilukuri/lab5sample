@@ -4,5 +4,4 @@ public class Sample
 	{
 		system.out.println("anudeep chilukuri");
 	}
-
-
+}
